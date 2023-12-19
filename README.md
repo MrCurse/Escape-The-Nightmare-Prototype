@@ -1,2 +1,3 @@
-For Introduction To Games Course
-Creater: 『Mr.Curse』
+For the Introduction To Games Course
+
+Creator: 『Mr.Curse』
